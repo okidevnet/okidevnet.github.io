@@ -1,3 +1,4 @@
 # okidevnet.github.io
 Website of Okinawa Developers Network
-tests
+
+This website is built using node.js and express.js.
